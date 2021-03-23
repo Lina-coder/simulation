@@ -1,4 +1,3 @@
-# simulatejingdong
 
 ## Project setup
 ```
